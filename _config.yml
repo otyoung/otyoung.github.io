@@ -2,5 +2,5 @@ theme: jekyll-theme-tactile
 #title: Owen Young
 #description: University of Michigan class of 2024 | BS in Computer Science | Minor in Japanese Language
   
-github:
-  is_project_page: false
+#github:
+#  is_project_page: false
