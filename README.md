@@ -4,7 +4,7 @@
  -->
 <!-- <BODY BGCOLOR="FFFFFF"> -->
 <CENTER><IMG SRC="copyrotcnerdshit.JPG" ALIGN="BOTTOM"> </CENTER>
-<a href="https://www.linkedin.com/in/owenthomasyoung/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/owenthomasyoung/">LinkedIn</a> | <a href="https://github.com/otyoung">GitHub</a> | <a href="https://www.linkedin.com/in/owenthomasyoung/">LinkedIn</a>
 <HR>
 <H1>This is a Header</H1>
 
