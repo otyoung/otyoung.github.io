@@ -1,8 +1,6 @@
-<HEAD>
-
-<TITLE>Owen Young</TITLE>
-
-</HEAD>
+<p> University of Michigan Class of 2024 </p>
+<p> BS in Computer Science </p>
+<p> Minor in Japanese Language </p>
 
 <BODY BGCOLOR="FFFFFF">
 
