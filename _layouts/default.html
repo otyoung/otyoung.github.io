@@ -20,7 +20,7 @@
 
         <header>
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-          <h4>{{ page.description1 | default: site.description1 | default: site.github.project_tagline }}<br>{{ page.description2 | default: site.description2 | default: site.github.project_tagline }}<br>{{ page.description3 | default: site.description3 | default: site.github.project_tagline }}</h4>
+          <h5>{{ page.description1 | default: site.description1 | default: site.github.project_tagline }}<br>{{ page.description2 | default: site.description2 | default: site.github.project_tagline }}<br>{{ page.description3 | default: site.description3 | default: site.github.project_tagline }}</h5>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
