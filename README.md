@@ -6,7 +6,7 @@
 
 <BODY BGCOLOR="FFFFFF">
 
-<CENTER><IMG SRC="copyrotcnerdshit.jpg" ALIGN="BOTTOM"> </CENTER>
+<CENTER><IMG SRC="copyrotcnerdshit.JPG" ALIGN="BOTTOM"> </CENTER>
 
 <HR>
 
