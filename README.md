@@ -2,10 +2,10 @@
 <br> BS in Computer Science
 <br> Minor in Japanese Language </p>
  -->
-<BODY BGCOLOR="FFFFFF">
+<!-- <BODY BGCOLOR="FFFFFF"> -->
 <CENTER><IMG SRC="copyrotcnerdshit.JPG" ALIGN="BOTTOM"> </CENTER>
-<!--<HR>-->
 <a href="https://www.linkedin.com/in/owenthomasyoung/">LinkedIn</a>
+<HR>
 <H1>This is a Header</H1>
 
 <H2>This is a Medium Header</H2>
