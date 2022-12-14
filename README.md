@@ -10,10 +10,8 @@
 
 <HR>
 
-<a href="http://somegreatsite.com">Link Name</a>
-
-is a link to another nifty site
-
+<a href="https://www.linkedin.com/in/owenthomasyoung/">LinkedIn</a>
+  
 <H1>This is a Header</H1>
 
 <H2>This is a Medium Header</H2>
