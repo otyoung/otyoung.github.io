@@ -1,6 +1,6 @@
 <HEAD>
 
-<TITLE>Your Title Here</TITLE>
+<TITLE>Owen Young</TITLE>
 
 </HEAD>
 
@@ -8,7 +8,7 @@
 
 <CENTER><IMG SRC="copyrotcnerdshit.JPG" ALIGN="BOTTOM"> </CENTER>
 
-<HR>
+<!--<HR>-->
 
 <a href="https://www.linkedin.com/in/owenthomasyoung/">LinkedIn</a>
   
