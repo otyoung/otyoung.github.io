@@ -1,5 +1,3 @@
-<HTML>
-
 <HEAD>
 
 <TITLE>Your Title Here</TITLE>
@@ -31,7 +29,3 @@ support@yourcompany.com</a>.
 <BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
 
 <HR>
-
-</BODY>
-
-</HTML>
