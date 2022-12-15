@@ -7,9 +7,6 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-{% seo %}
-    {% include head-custom.html %}
   </head>
 <!-- <BODY BGCOLOR="FFFFFF"> -->
 <CENTER><IMG SRC="copyrotcnerdshit.JPG" ALIGN="BOTTOM"> </CENTER>
