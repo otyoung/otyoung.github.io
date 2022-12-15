@@ -4,8 +4,8 @@
 <HR>
 <!-- <section name="projects"> -->
   <H2>Projects</H2>
-  <H3><i>EECS 445 (Intro to Machine Learning) Course Projects</i></H3>
-  <H3><i>EECS 367 (Intro to Autonomous Robotics) Course Projects</i></H3>
+  <H3><emph>EECS 445 (Intro to Machine Learning) Course Projects</emph></H3>
+  <H3><emph>EECS 367 (Intro to Autonomous Robotics) Course Projects</emph></H3>
 <!--   </section> -->
   
   
