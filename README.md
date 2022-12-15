@@ -18,6 +18,7 @@
     <p>Class projects for the University of Michigan's EECS 367. Includes multiple path planning algorithms and forward and inverse kinematics.</p>
   </div>
   <br>
+  <br>
   </section>
   
   
