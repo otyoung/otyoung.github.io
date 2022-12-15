@@ -11,6 +11,7 @@
     <p>Collaborated with a small research team of American and British interns to explore covert channel development in the Go coding language for the British Ministry Of Defence.</p>
   </div>
   <br>
+  <br>
   <div class="project-section">
     <img src="/assets/images/acePic.png" style="margin: 15px" align="left" width="100">
     <H3>Advanced Course in Engineering Cybersecurity Projects<em><span style="float: right;">Su 2022</span></em></H3>
