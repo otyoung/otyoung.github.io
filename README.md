@@ -1,11 +1,11 @@
 <!-- <BODY BGCOLOR="FFFFFF"> -->
 <CENTER><IMG SRC="copyrotcnerdshit.JPG" ALIGN="BOTTOM"> </CENTER>
 <a href="https://www.linkedin.com/in/owenthomasyoung/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/otyoung" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="http://www.otyoung.com/Documents/Owen%20Young%20Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
-<!-- <HR> -->
+<HR>
 <section name="projects">
   <H2>Projects</H2>
-  <H3><emph>EECS 445 (Intro to Machine Learning) Course Projects</emph></H3>
-  <H3><emph>EECS 367 (Intro to Autonomous Robotics) Course Projects</emph></H3>
+  <H3><em>EECS 445 (Intro to Machine Learning) Course Projects</em></H3>
+  <H3><em>EECS 367 (Intro to Autonomous Robotics) Course Projects</em></H3>
   </section>
   
   
