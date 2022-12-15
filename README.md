@@ -1,13 +1,3 @@
-  <head>
-    <meta charset='utf-8'>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
 <!-- <BODY BGCOLOR="FFFFFF"> -->
 <CENTER><IMG SRC="copyrotcnerdshit.JPG" ALIGN="BOTTOM"> </CENTER>
 <a href="https://www.linkedin.com/in/owenthomasyoung/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/otyoung" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="http://www.otyoung.com/Documents/Owen%20Young%20Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
