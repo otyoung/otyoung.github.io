@@ -5,7 +5,7 @@
     margin: 0 15px 0 0;
   text-align: left;
   }
-  </style>
+</style>
 </head>
 
 <!-- <BODY BGCOLOR="FFFFFF"> -->
