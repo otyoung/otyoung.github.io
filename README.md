@@ -9,6 +9,7 @@
     <H3>Metadating: EECS 449 (Conversational AI) Capstone Project<em><span style="float: right;">Su 2022</span></em></H3>
     <p>Results from 10 weeks of collaboration with a small research team of American and British interns to explore a covert network channel native in the Go coding language for the British Ministry Of Defence.</p>
   </div>
+  <br>
   <div class="project-section">
     <img src="/assets/images/rrPic.png" style="margin: 15px" align="left" width="100">
     <H3>Ministry of Defence Covert TCP Channel Research Project<em><span style="float: right;">Su 2022</span></em></H3>
