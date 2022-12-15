@@ -10,7 +10,7 @@
   <div class="project-section">
     <img src="/assets/images/acePic.png" style="margin: 15px" align="left" width="100">
     <H3>Advanced Course in Engineering Cybersecurity Projects<em><span style="float: right;">Wn 2022</span></em></H3>
-    <p>  </p>
+    <p>Medium-scale solutions to 9 graduate-level cybersecurity challenge problems including hardware security, malware analysis and development, and pre and post exploitation attacking.</p>
   </div>
   <br>
   <div class="project-section">
