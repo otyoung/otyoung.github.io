@@ -232,7 +232,3 @@ footer a {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
-.inner {
-  width: 800px;
-  margin: 0;
-}
