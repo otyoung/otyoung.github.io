@@ -6,8 +6,8 @@
   <H2>Projects</H2>
   <div class="project-section">
     <img src="/assets/images/rrPic.png" style="margin: 15px" align="left" width="100">
-    <H3>Metadating: EECS 449 (Conversational AI) Capstone Project<em><span style="float: right;">Su 2022</span></em></H3>
-    <p>Results from 10 weeks of collaboration with a small research team of American and British interns to explore a covert network channel native in the Go coding language for the British Ministry Of Defence.</p>
+    <H3>Metadating: EECS 449 (Conversational AI) Course Project<em><span style="float: right;">Fa 2022</span></em></H3>
+    <p>A semester long capstone project with 8 students to utilize conversational AI to solve a problem. Metadating utilizes GPT3's DaVinci and Curie models to simulate a dating app conversation with an AI partner</p>
   </div>
   <br>
   <div class="project-section">
