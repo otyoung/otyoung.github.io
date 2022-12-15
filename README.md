@@ -34,5 +34,5 @@
     <p>Class projects for the University of Michigan's EECS 367. Includes the A* and RRT path planning algorithms as well as forward and inverse kinematics.</p>
   </div>
   <br>
-  <hr>
+<!--   <hr> -->
   </section>
