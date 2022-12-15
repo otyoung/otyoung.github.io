@@ -4,6 +4,7 @@
 <HR>
 <section name="projects">
   <H2>Projects</H2>
+  <H3>Metadating: EECS 449 (Conversational AI) Course Project<em><span style="float: right;">Fa 2022</span></em></H3>
   <H3>Ministry of Defence Covert TCP Channel Research Project<em><span style="float: right;">Su 2022</span></em></H3>
   <H3>Advanced Course in Engineering Cybersecurity Projects<em><span style="float: right;">Su 2022</span></em></H3>
   <div class="project-section">
