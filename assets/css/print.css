@@ -221,6 +221,12 @@ footer a {
   text-align: left;
 }
 
+.project-section img{
+  margin: 15px;
+  width: 100;
+  align: left;
+}
+
 .clearfix:after {
   display: block;
   height: 0;
