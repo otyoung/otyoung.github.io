@@ -215,6 +215,12 @@ footer a {
 }
 
 /* MISC */
+.project-section{
+  float: left;    
+  margin: 0 15px 0 0;
+  text-align: left;
+}
+
 .clearfix:after {
   display: block;
   height: 0;
