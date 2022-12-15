@@ -4,6 +4,8 @@
 <HR>
 <section name="projects">
   <H2>Projects</H2>
+  <H3><em>Ministry of Defence Covert TCP Channel Research Project</em></H3>
+  <H3><em>Advanced Course in Engineering Cybersecurity Projects</em></H3>
   <H3><em>EECS 445 (Intro to Machine Learning) Course Projects</em></H3>
   <H3><em>EECS 367 (Intro to Autonomous Robotics) Course Projects</em></H3>
   </section>
