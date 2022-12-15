@@ -5,7 +5,7 @@
 <section name="projects">
   <H2>Projects</H2>
   <div class="project-section">
-    <img src="/assets/images/rrPic.png" style="margin: 15px" align="left" width="100">
+    <img src="/assets/images/metadating.png" style="margin: 15px" align="left" width="100">
     <H3>Metadating: EECS 449 (Conversational AI) Course Project<em><span style="float: right;">Fa 2022</span></em></H3>
     <p>A semester long capstone project with 8 students to utilize conversational AI to solve a problem. Metadating utilizes GPT3's DaVinci and Curie models to simulate a dating app conversation with an AI partner</p>
   </div>
@@ -36,18 +36,3 @@
   <br>
   <hr>
   </section>
-  
-  
-<H2>This is a Medium Header</H2>
-
-Send me mail at <a href="mailto:support@yourcompany.com">
-
-support@yourcompany.com</a>.
-
-<P> This is a new paragraph!
-
-<P> <B>This is a new paragraph!</B>
-
-<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
-
-<HR>
