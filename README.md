@@ -9,7 +9,7 @@
   <H3>Advanced Course in Engineering Cybersecurity Projects<em><span style="float: right;">Su 2022</span></em></H3>
   <H3>EECS 445 (Intro to Machine Learning) Course Projects<em><span style="float: right;">Wn 2022</span></em></H3>
   <div class="project-section">
-    <img src="/assets/images/eecs367sc.png" align="left" width="100">
+    <img src="/assets/images/eecs367sc.png" style="margin: 15px" align="left" width="100">
     <H3>EECS 367 (Intro to Autonomous Robotics) Course Projects<em><span style="float: right;">Wn 2022</span></em></H3>
     <p>Class projects for the University of Michigan's EECS 367. Includes multiple path planning algorithms and forward and inverse kinematics.</p>
   </div>
