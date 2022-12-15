@@ -12,7 +12,7 @@
   </div>
   <br>
   <div class="project-section">
-    <img src="/assets/images/rrPic.png">
+    <img src="/assets/images/rrPic.png" align="left" width="100">
     <H3>Ministry of Defence Covert TCP Channel Research Project<em><span style="float: right;">Su 2022</span></em></H3>
     <a href="https://www.linkedin.com/in/owenthomasyoung/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/otyoung" target="_blank" rel="noopener noreferrer">GitHub</a>
     <p>Results from 10 weeks of collaboration with a small research team of American and British interns to explore a covert network channel native in the Go coding language for the British Ministry Of Defence.</p>
