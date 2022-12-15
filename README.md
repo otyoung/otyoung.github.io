@@ -1,3 +1,13 @@
+<head>
+<style>
+  .project-section{
+  float: left;    
+    margin: 0 15px 0 0;
+  text-align: left;
+  }
+  </style>
+</head>
+
 <!-- <BODY BGCOLOR="FFFFFF"> -->
 <CENTER><IMG SRC="copyrotcnerdshit.JPG" ALIGN="BOTTOM"> </CENTER>
 <a href="https://www.linkedin.com/in/owenthomasyoung/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://github.com/otyoung" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="http://www.otyoung.com/Documents/Owen%20Young%20Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
@@ -8,6 +18,10 @@
   <H3><em>Advanced Course in Engineering Cybersecurity Projects</em></H3>
   <H3><em>EECS 445 (Intro to Machine Learning) Course Projects</em></H3>
   <H3><em>EECS 367 (Intro to Autonomous Robotics) Course Projects</em></H3>
+  <div class="project-section">
+    <img src="/assets/images/eecs367sc.png" align="left">
+    
+  </div>
   </section>
   
   
