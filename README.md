@@ -17,8 +17,7 @@
     <H3>EECS 367 (Intro to Autonomous Robotics) Course Projects<em><span style="float: right;">Wn 2022</span></em></H3>
     <p>Class projects for the University of Michigan's EECS 367. Includes multiple path planning algorithms and forward and inverse kinematics.</p>
   </div>
-  <br>
-  <br>
+  <hr>
   </section>
   
   
