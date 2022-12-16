@@ -15,7 +15,7 @@ description: Results from 10 weeks of collaboration with a small research team o
 <body>
 
 <div class="">
- <h1>This is ACE</h1>
+ <h1>This is Rodrick's Rangers</h1>
  <p>This is a paragraph.</p>
  <p>This is another paragraph.</p>
 </div>
