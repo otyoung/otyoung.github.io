@@ -37,11 +37,9 @@
       <div class="inner" style="width: 800px">
 
         <header>
-		<div>
 	<img src={{page.img}} style="margin: 15px" align="right" width="140">
-          <span><h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-		  <p>{{page.description}}</p></span>
-		</div>
+          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+		  <p>{{page.description}}</p>
         </header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
