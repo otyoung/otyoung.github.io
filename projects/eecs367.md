@@ -1,6 +1,6 @@
 ---
 layout: project
-title: eecs367
+title: EECS 367
 permalink: /projects/eecs367
 img: "../assets/images/eecs367sc.png"
 filename: eecs367.md
