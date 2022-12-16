@@ -15,7 +15,7 @@ description: Class projects for the University of Michigan's EECS 445. Project 1
 <body>
 
 <div class="">
- <h1>This is EECS 367</h1>
+ <h1>This is EECS 445</h1>
  <p>This is a paragraph.</p>
  <p>This is another paragraph.</p>
 </div>
