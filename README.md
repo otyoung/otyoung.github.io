@@ -7,7 +7,7 @@
   <div class="project-section">
     <img src="/assets/images/metadating.png" align="left" width="100">
     <H3>Metadating: EECS 449 (Conversational AI) Course Project<em>Fa 2022</em></H3>
-    [<a href="www.otyoung.com/projects/metadating/" target="_blank" rel="noopener noreferrer">Project Page</a>] [<a href=" https://www.youtube.com/watch?v=uCLP3tOa7M8" target="_blank" rel="noopener noreferrer">Demo Video</a>] [<a href="https://github.com/JasInCase/Metadating" target="_blank" rel="noopener noreferrer">Code</a>]
+    [<a href="www.otyoung.com/projects/metadating/" target="_blank" rel="noopener noreferrer">Project Page</a>] [<a href="https://www.youtube.com/watch?v=uCLP3tOa7M8" target="_blank" rel="noopener noreferrer">Demo Video</a>] [<a href="https://github.com/JasInCase/Metadating" target="_blank" rel="noopener noreferrer">Code</a>]
     <p>A semester long capstone project with 8 students to utilize conversational AI to solve a problem. Metadating utilizes GPT3's DaVinci and Curie models to simulate a dating app conversation with an AI partner.</p>
   </div>
   <br>
