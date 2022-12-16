@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Advanced Course in Engineering Projects
+title: ACE Projects
 permalink: /projects/ace-cyber
 img: "/assets/images/acePic.png"
 filename: ace-cyber.md
