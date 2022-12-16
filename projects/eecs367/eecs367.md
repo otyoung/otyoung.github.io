@@ -1,3 +1,7 @@
+layout: project
+title: eecs367
+permalink: /projects/eecs367
+
 <html lang="en">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
