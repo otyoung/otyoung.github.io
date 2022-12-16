@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Advanced Course in Engineering Projects
-permalink: /projects/ace-projects
+permalink: /projects/ace-cyber
 img: "/assets/images/acePic.png"
-filename: ace-projects.md
+filename: ace-cyber.md
 description: Medium-scale solutions with teams of 3 to 9 graduate-level cybersecurity challenge problems including hardware security, malware analysis and development, and pre and post exploitation attacking.
 ---
 
