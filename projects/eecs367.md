@@ -1,6 +1,7 @@
 layout: project
 title: eecs367
 permalink: /projects/eecs367
+img: "/assets/images/eecs367sc.png"
 
 <html lang="en">
 <meta charset="UTF-8">
