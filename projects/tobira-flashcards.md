@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Tobira Japanese Flashcards
+title: Tobira Flashcards
 permalink: /projects/tobira-flashcards
 img: "/assets/images/rrPic.png"
 filename: tobira-research.md
@@ -24,16 +24,20 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
 </html> -->
 <html>
   <head>
-    <title>Red Box with Japanese Text</title>
+    <title>White Rectangle with Japanese Text</title>
     <style>
-      /* CSS to style the red box */
-      .red-box {
-        background-color: red;
-        color: white;
-        padding: 20px;
+      /* CSS to style the white rectangle */
+      .white-rectangle {
+        background-color: white;
+        color: black;
+        font-size: 5vw;
         text-align: center;
-        width: 200px;
-        height: 100px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 80%;
+        height: 80%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -41,13 +45,22 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
     </style>
   </head>
   <body>
-    <div class="red-box">
-      勉強する
+    <div class="white-rectangle">
+      飛ぶ
     </div>
     <script>
-      // JavaScript to display the red box
-      const redBox = document.querySelector('.red-box');
-      redBox.style.display = 'block';
+      // JavaScript to scale the white rectangle
+      const whiteRectangle = document.querySelector('.white-rectangle');
+      const resizeRectangle = () => {
+        const w = window.innerWidth;
+        const h = window.innerHeight;
+        const rectangleWidth = w * 0.8;
+        const rectangleHeight = h * 0.8;
+        whiteRectangle.style.width = rectangleWidth + 'px';
+        whiteRectangle.style.height = rectangleHeight + 'px';
+      };
+      window.addEventListener('resize', resizeRectangle);
+      resizeRectangle();
     </script>
   </body>
 </html>
