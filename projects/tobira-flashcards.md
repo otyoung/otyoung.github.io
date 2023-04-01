@@ -54,7 +54,7 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
       const resizeRectangle = () => {
         const w = window.innerWidth;
         const h = window.innerHeight;
-        const rectangleWidth = w * 0.8;
+        const rectangleWidth = min(w * 0.8, 800);
         const rectangleHeight = h * 0.8 - 300;
         whiteRectangle.style.width = rectangleWidth + 'px';
         whiteRectangle.style.height = rectangleHeight + 'px';
