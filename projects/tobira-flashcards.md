@@ -21,10 +21,7 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
     float: left;
     }
     .left {
-    width: 20%;
-    }
-    .middle {
-    width: 40%;
+    width: 50%;
     }
     .right {
     width: 50%;
@@ -38,7 +35,7 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
 </head>
 <body>
     <div class="column left">
-        Tobira: Beginning Japanese
+        <emph>Tobira: Beginning Japanese</emph>
         <br>
 	    <label for="bAll">Whole Textbook</label>
 	    <input type="checkbox" id="bAll" value="0">
@@ -55,7 +52,7 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
 	    <label for="bCh16-20">Chapter 16-20</label>
 	    <input type="checkbox" id="bCh16-20" value="4">
 	    <br>
-        Tobira: Gateway to Advanced Japanese
+        <emph>Tobira: Gateway to Advanced Japanese</emph>
         <br>
 	    <label for="iAll">Whole Textbook</label>
 	    <input type="checkbox" id="iAll" value="5">
@@ -105,10 +102,9 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
 	    <label for="iCh15">Chapter 15</label>
 	    <input type="checkbox" id="iCh15" value="20">
 	    <br>
-	    <button onclick="convertToInteger()">Go</button>
     </div>
-    <div class="column middle">
-        Front Side
+    <div class="column right">
+        <emph>Front Side</emph>
         <br>
 	    <label for="frontKanji">Kanji</label>
 	    <input type="checkbox" id="frontKanji" value="1">
@@ -119,7 +115,7 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
 	    <label for="frontEnglish">English</label>
 	    <input type="checkbox" id="frontEnglish" value="3">
 	    <br>
-        Back Side
+        <emph>Back Side</emph>
         <br>
 	    <label for="backKanji">Kanji</label>
 	    <input type="checkbox" id="backKanji" value="1">
@@ -130,8 +126,8 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
 	    <label for="backEnglish">English</label>
 	    <input type="checkbox" id="backEnglish" value="3">
 	    <br>
-	    <button onclick="convertToInteger()">Go</button>
     </div>
+	<button onclick="convertToInteger()">Go</button>
 	<script>
 		function convertToInteger() {
 			let bit1 = document.getElementById("bit1");
