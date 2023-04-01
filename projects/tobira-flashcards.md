@@ -55,7 +55,7 @@ description: Practice flashcards for vocabulary from the Tobira Japanese textboo
         const w = window.innerWidth;
         const h = window.innerHeight;
         const rectangleWidth = w * 0.8;
-        const rectangleHeight = h * 0.8;
+        const rectangleHeight = h * 0.8 - 300;
         whiteRectangle.style.width = rectangleWidth + 'px';
         whiteRectangle.style.height = rectangleHeight + 'px';
       };
